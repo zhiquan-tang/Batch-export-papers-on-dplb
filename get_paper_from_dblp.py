@@ -1,5 +1,5 @@
 ## coding:utf-8
-## email: zqtang.ch@gmail.com
+## email: zqtang.chn@gmail.com
 import requests, re, openpyxl
 from html import unescape
 from googletrans import Translator
